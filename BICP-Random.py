@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from N4Y66M32 import menu
+        from SpY32 import menu
         
         menu()
         
